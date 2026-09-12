@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project thumbnail">
+  <rect width="400" height="300" fill="#EAE8E0"/>
+  <rect x="0" y="0" width="400" height="300" fill="none" stroke="#DAD7CC"/>
+  <g stroke="#1B1E23" stroke-width="1">
+    <line x1="30" y1="220" x2="30" y2="80"/>
+    <line x1="30" y1="220" x2="370" y2="220"/>
+  </g>
+  <polyline points="30,190 100,160 170,175 240,110 310,130 370,70" fill="none" stroke="#A6742B" stroke-width="2"/>
+  <circle cx="240" cy="110" r="4" fill="#1F5F5B"/>
+  <circle cx="370" cy="70" r="4" fill="#1F5F5B"/>
+  <text x="30" y="260" font-family="IBM Plex Mono, monospace" font-size="13" fill="#565C63">02 / MARKET-PULSE</text>
+</svg>

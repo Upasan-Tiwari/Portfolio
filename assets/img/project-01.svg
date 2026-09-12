@@ -1,0 +1,9 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Project thumbnail">
+  <rect width="400" height="300" fill="#EAE8E0"/>
+  <line x1="0" y1="0" x2="400" y2="300" stroke="#DAD7CC" stroke-width="1"/>
+  <line x1="400" y1="0" x2="0" y2="300" stroke="#DAD7CC" stroke-width="1"/>
+  <rect x="40" y="40" width="150" height="90" fill="none" stroke="#1F5F5B" stroke-width="1.5"/>
+  <rect x="210" y="150" width="120" height="90" fill="#1F5F5B"/>
+  <circle cx="300" cy="80" r="26" fill="none" stroke="#1B1E23" stroke-width="1.5"/>
+  <text x="40" y="270" font-family="IBM Plex Mono, monospace" font-size="13" fill="#565C63">01 / TASK-FLOW</text>
+</svg>
